@@ -38,8 +38,8 @@ O projeto foi desenvolvido de forma modular, dividido nos seguintes arquivos:
 
 **Passo 1: Clonar o repositório**
 ```bash
-git clone [https://github.com/pedrosouzw0/SEU_REPOSITORIO.git](https://github.com/pedrosouzw0/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone [https://github.com/pedrosouzw0/Super_Projeto.git](https://github.com/pedrosouzw0/Super_Projeto.git)
+cd Super_Projeto
 Passo 2: Instalar as dependências
 
 Bash
